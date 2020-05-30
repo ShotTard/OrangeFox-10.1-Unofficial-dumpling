@@ -1,0 +1,6 @@
+files:
+  - source: gui/theme/common/languages/en.xml
+    translation: /**/gui/theme/common/languages/%locale_with_underscore%.xml
+    translatable_elements:
+      - /language/resources/string
+      - /language/display

@@ -1,5 +1,5 @@
-# OrangeFox-10.1-Unofficial-dumpling
+**Team Win Recovery Project (TWRP)**
+**OrangeFox Recovery Project (OFRP)**
+https://mryacha.github.io/OrangeFox-Site/
 
-NOTE: I compiled this recovery for my own personal use, so I won't be providing any support.
-
-USE AT YOUR OWN RISK!
+You can find a compiling guide [here](http://forum.xda-developers.com/showthread.php?t=1943625 "Guide").
